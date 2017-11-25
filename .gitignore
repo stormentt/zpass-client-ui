@@ -1,0 +1,9 @@
+moc*
+deploy
+linux
+*.autosave
+rcc*
+*.pro*
+keyvault.json
+zpass-client.yaml
+index-file

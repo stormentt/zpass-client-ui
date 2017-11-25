@@ -2,5 +2,8 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>Password.qml</file>
+        <file>PasswordView.qml</file>
+        <file>UnlockView.qml</file>
     </qresource>
 </RCC>
